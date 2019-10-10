@@ -1,3 +1,8 @@
+## This runs via a Docker Container. 
+
+Navigate to the root level and run docker-compose up 
+Docker Running... 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
